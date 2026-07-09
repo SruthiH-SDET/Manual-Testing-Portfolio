@@ -14,6 +14,14 @@ This repository showcases my manual testing skills through test plans, test scen
 - Defect Reporting
 - Test Data Preparation
 
+ ## Application Under Test
+
+OpenCart Demo
+
+https://demo.opencart.com
+
+The test artifacts in this repository were created based on testing activities performed on the OpenCart Demo e-commerce application.
+
 ## Tools
 Jira · Excel · SQL · Chrome DevTools · GitHub
 
