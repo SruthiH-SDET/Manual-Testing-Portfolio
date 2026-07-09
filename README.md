@@ -117,7 +117,7 @@ Manual-Testing-Portfolio
 
 # 👨‍💻 About Me
 
-I am an aspiring Software QA Engineer with hands-on experience in:
+I am a Software QA Engineer with hands-on experience in:
 
 - Manual Testing
 - Selenium with Java
