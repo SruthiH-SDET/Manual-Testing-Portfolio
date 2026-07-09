@@ -2,7 +2,7 @@
 
 **Project:** E-Commerce Web Application
 
-**Prepared By:** Your Name
+**Prepared By:** Sruthi H
 
 **Version:** 1.0
 
